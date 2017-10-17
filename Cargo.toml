@@ -1,0 +1,8 @@
+[package]
+name = "bloom-filter"
+version = "0.1.0"
+authors = ["Frank Paulo Filho <me@frankpf.com>"]
+
+[dependencies]
+bit-vec = "0.4.4"
+seahash = "3.0.5"
